@@ -1,4 +1,4 @@
-# KylieValdez.github.io
+hardware
 Comparing and Contrasting Computer Components
 <div class="topnav" id="myTopnav">
  <a href="home.html">Home</a>
